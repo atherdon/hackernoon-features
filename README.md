@@ -11,6 +11,8 @@ https://help.medium.com/hc/en-us/articles/215108608-Stats
 
 https://medium.freecodecamp.org/how-to-get-published-in-the-freecodecamp-medium-publication-9b342a22400e
 
+https://docs.google.com/document/d/1gkWF3rCR1BpnQDXInZmeWARuq3xjf_a-3rSPnxjRZxw/edit
+
 #### Stretch goals
 - [x] Add Trello board for a better communication process. start with simple Kanban
 - [ ] Transfer ownership (everything) to HN team, so they will keep it.
