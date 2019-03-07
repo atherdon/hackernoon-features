@@ -7,7 +7,9 @@
 []()
 Trello Bo0ard: https://trello.com/b/RGLhzDc2/hacker-noon-feature-requests
 
+https://help.medium.com/hc/en-us/articles/215108608-Stats
 
+https://medium.freecodecamp.org/how-to-get-published-in-the-freecodecamp-medium-publication-9b342a22400e
 
 #### Stretch goals
 - [x] Add Trello board for a better communication process. start with simple Kanban
