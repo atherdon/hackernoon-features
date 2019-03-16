@@ -19,17 +19,8 @@ Regarding additional stats, I was thinking of readers’ locations and where rea
 
 As for stats, there’s definitely a lot more we can do than we provide today. What sort of stats would you like to see @arthur.tkachenko @patriciadehemricourt? Any and all ideas are appreciated!
 
+Trello: https://trello.com/c/8gX3LhpV/1-post-metrics
 
-
-#### Small F
-
-1) If you will have Voice-To-Text ability -> it will be awesome. BEcause I'm lazy to type it
-
-2) What do you think about Po.et thing? Can it be helpful for HN?
-
-3) I think HN need to use more help and more tools. Like code can be shared between people, editorial work too. I think form + email should be updated with form+ slack+bots, etc…
-
-4) New feature: I want to have an advanced bookmarks. Where i can have tags or something. Because my bookmarks at Medium looks bad
 
 #### Events
 
@@ -47,6 +38,7 @@ Some sort of newsletter digest. Check TechMemo or Sip from ProductHunt.
 
 Data viz of the day or week
 
+Trello: https://trello.com/c/52rilkLz/5-newsletter-digest
 
 #### Editorial calendar
 
@@ -58,3 +50,31 @@ I submitted an article before the weekend and what’s usually a 24hr turn aroun
 
 All great ideas! I’ll talk over all of these with @Dane when he gets back, but I wanted to address a few of these ideas in particular below:
 We definitely want to give you more feedback on the editorial process, and we will have a “Recent Activity” feed in 2.0 that will tell you when an editor has opened, edited, or approved your story. Of course, that doesn’t tell you when an editor will actually open it – it will be difficult, but I think it’s doable to give you an estimate. It won’t be there from day 1, but I’ll talk to Dane about it as soon as he gets back.
+
+#### Title/headline creator
+
+Would love to see story title/headline creator. This might be something similar to https://coschedule.com/headline-analyzer 1 but very specific to hackernoon.
+Based on the topic and some data science magic, it would be a killer feature to see hackernoon help writers craft an inviting title/headline
+
+
+
+(Artur note): I think at this doc we have some sort of help. I mean list of categories/tags are really helpful.
+
+> When in doubt, refer to the tags you’ll find attached the top stories featured on our homepage... (https://docs.google.com/document/d/1XfgCHnRe1fiSuBS6iHzG6_A8GTizP6JTraypXjT18pA/edit)
+
+
+Trello link: https://trello.com/c/f1mLPmoq/11-title-headline-creator
+
+
+#### Small F
+
+1) If you will have Voice-To-Text ability -> it will be awesome. BEcause I'm lazy to type it
+
+2) What do you think about Po.et thing? Can it be helpful for HN?
+
+3) I think HN need to use more help and more tools. Like code can be shared between people, editorial work too. I think form + email should be updated with form+ slack+bots, etc…
+
+4) New feature: I want to have an advanced bookmarks. Where i can have tags or something. Because my bookmarks at Medium looks bad
+Trello: https://trello.com/c/Z0rdw3Zg/4-bookmarks-with-tags
+
+5) You can collaborate with ProductHunt Makers. They have a separated place, related to goal on blogging. And I think Its a dream for a lot of people to being published on HN. https://www.producthunt.com/makers/34-writers-bloggers
