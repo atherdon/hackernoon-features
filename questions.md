@@ -1,6 +1,10 @@
 Did this feature clear for current developers?
+
 Do we need a clarification from a person, that submit this feature?
+
 What should we ask from post author(feature requester)
+
+
 
 Sometimes I'm asking for a help of proof-reading, but not of all my friends are interested to doing it. How I did it with my friend:
 He publish an article, show it to me, I read it with a fresh eye and usually tell him a places that confusing me.
