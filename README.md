@@ -15,6 +15,8 @@ https://docs.google.com/document/d/1gkWF3rCR1BpnQDXInZmeWARuq3xjf_a-3rSPnxjRZxw/
 
 https://community.hackernoon.com/t/is-their-a-way-to-automate-reporting-on-github-stars-contributions/479/4
 
+https://community.hackernoon.com/t/im-a-developer-on-hacker-noon-2-0-ask-me-anything/998/7
+
 #### Stretch goals
 - [x] Add Trello board for a better communication process. start with simple Kanban
 - [ ] Transfer ownership (everything) to HN team, so they will keep it.
