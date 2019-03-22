@@ -17,6 +17,8 @@ https://community.hackernoon.com/t/is-their-a-way-to-automate-reporting-on-githu
 
 https://community.hackernoon.com/t/im-a-developer-on-hacker-noon-2-0-ask-me-anything/998/7
 
+https://community.hackernoon.com/t/more-recognition/546/2?u=arthur.tkachenko
+
 #### Stretch goals
 - [x] Add Trello board for a better communication process. start with simple Kanban
 - [ ] Transfer ownership (everything) to HN team, so they will keep it.
