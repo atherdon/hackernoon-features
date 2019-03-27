@@ -19,6 +19,11 @@ https://community.hackernoon.com/t/im-a-developer-on-hacker-noon-2-0-ask-me-anyt
 
 https://community.hackernoon.com/t/more-recognition/546/2?u=arthur.tkachenko
 
+---
+Bomb
+https://docs.google.com/document/d/16IeLLC0QBtlzuQrvNhEwwq5KJD6A5Kj9loPrzRxC2wU/edit
+
+
 #### Stretch goals
 - [x] Add Trello board for a better communication process. start with simple Kanban
 - [ ] Transfer ownership (everything) to HN team, so they will keep it.
