@@ -23,6 +23,10 @@ As for stats, there’s definitely a lot more we can do than we provide today. W
 Trello: https://trello.com/c/8gX3LhpV/1-post-metrics
 
 
+----
+
+
+
 #### Events
 
 well done search and filterable with alerts global calendar of conferences and events with confirmed attendees. this is pretty useful for me.
@@ -30,6 +34,10 @@ well done search and filterable with alerts global calendar of conferences and e
 >> well done search and filterable with alerts global calendar of conferences and events with confirmed attendees. this is pretty useful for me.
 
 Yes! We’re thinking of building something like a marketplace on events.hackernoon.com where conferences/events could give contributors free press entry and contributors can sign up to go and write a story. Recently one of our contributors David Choi went to Davos and covered the Blockchain Economic Forum on behalf of Hacker Noon. We get media partnership invites from all sorts of tech conferences on a daily basis. If we do it right, we can get to a point where every single tech event would have a HN rep/attendee, and we will be able to build out a filter-able calendar.
+
+
+----
+
 
 
 #### Newsletter digest
@@ -45,6 +53,10 @@ We’ve been talking about newsletters as well. @arthur.tkachenko what sort of c
 Trello: https://trello.com/c/52rilkLz/5-newsletter-digest
 
 
+----
+
+
+
 #### Editorial calendar
 
 Editorial calendar with ability to see the queue of pending articles. Like where is my post in a line?
@@ -55,6 +67,10 @@ I submitted an article before the weekend and what’s usually a 24hr turn aroun
 
 All great ideas! I’ll talk over all of these with @Dane when he gets back, but I wanted to address a few of these ideas in particular below:
 We definitely want to give you more feedback on the editorial process, and we will have a “Recent Activity” feed in 2.0 that will tell you when an editor has opened, edited, or approved your story. Of course, that doesn’t tell you when an editor will actually open it – it will be difficult, but I think it’s doable to give you an estimate. It won’t be there from day 1, but I’ll talk to Dane about it as soon as he gets back.
+
+
+----
+
 
 
 #### Title/headline creator
@@ -92,6 +108,10 @@ That does sound like a really cool project. I created a project like this in the
 Trello link: https://trello.com/c/f1mLPmoq/11-title-headline-creator
 
 
+----
+
+
+
 #### Small F
 
 1) If you will have Voice-To-Text ability -> it will be awesome. BEcause I'm lazy to type it
@@ -117,6 +137,10 @@ https://community.hackernoon.com/t/what-are-the-killer-features-youd-like-to-see
 
 
 
+----
+
+
+
 #### API
 
 Some sort of an API and maybe React component, that will help to fetch all author articles and display a “List of Cards” with links to articles. (I find it’s hard to grab all my stuff from Medium and place links at my Gatsby/Docusaurus website)
@@ -129,6 +153,10 @@ API -> use a GraphQL please. And start with some developed before solution. It w
 (Arthur note): I start to google "graphql cms open source" and have bunch of results.
 
 
+----
+
+
+
 #### Social Media tools
 2 Maybe also a wy to leverage the community’s social media network to expand articles reach. Something along the lines of triberr.com
 3
@@ -138,6 +166,10 @@ An option to edit the default text displayed when sharing on social media
 I’ll personally make sure point #3 is addressed in 2.0.  As for point #2, triberr looks interesting, and we’re always looking for ways to amplify the publish button. I’ll bring this up with the team, for sure.
 
 Trello link: https://trello.com/c/Gb5NYZv8/2-customize-social-media-sharing-text
+
+
+----
+
 
 
 #### GitHub integration
@@ -166,6 +198,10 @@ I’m definitely interested in Github integration as well, not only for markdown
 Trello:
 
 
+----
+
+
+
 #### Peer-review
 
 I think peer-review possibility between authors in Hackernoon will be a good way to promote the community-based tech blog, to reduce the workload of the Hackernoon internal team and prepare a base step to use the blockchain concept in Hackernoon. At first, we can point some accredited authors and let them co-review the post. A post can be published after, for example, 3 approves. This is rather a conceptual and abstract idea and I hope I can answer some questions if you have.
@@ -190,12 +226,20 @@ community editors will be rewarded with features and curation power. as your con
 Trello: https://trello.com/c/MLfEWXi6/6-collective-editing
 Trello: https://trello.com/c/AnhzrufI/7-collective-story-approval
 
+----
+
+
+
 #### email follow feature
 
 The e-mail follow feature that @David mentioned sounds interesting. Would it allow integrations with things like MailChimp? That would certainly be a useful feature.
 
 (Arthur note) I didn't find where David talks about it
 https://community.hackernoon.com/t/what-are-the-killer-features-youd-like-to-see-in-hacker-noon-2-0/68/28?u=arthur.tkachenko
+
+
+----
+
 
 
 #### Collaborate website form that submit PR to github repo
@@ -224,6 +268,10 @@ https://github.com/ymschaap/website/pull/11
 https://build.amsterdam/your-company/babel
 https://github.com/facebook/Docusaurus/issues/1080
 
+----
+
+
+
 #### History of viewing
 
 Haven’t seen this being mentioned, so I think I can post a reply.
@@ -235,3 +283,7 @@ Later when I want to look for the said article, it’s really hard to look for i
 So I’d like to propose for this new platform that there can be a “history of last viewed articles” feature for registered members. No need to store all of it, perhaps only the last 30 articles or so would’ve been very helpful.
 
 Thanks for the consideration! Can’t wait to see HackerNoon’s 2.0 platform :grin:
+
+----
+
+
