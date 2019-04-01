@@ -27,6 +27,7 @@ Trello: https://trello.com/c/8gX3LhpV/1-post-metrics
 
 
 
+
 #### Events
 
 well done search and filterable with alerts global calendar of conferences and events with confirmed attendees. this is pretty useful for me.
